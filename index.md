@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/fareedaalam/amanmarbles/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Inquery [Whatsapp]( https://wa.me/917071773534?text=I' am intrested for purchase)
+Inquery [Whatsapp]( https://wi.me/917071773534?text=I' am intrested for purchase)
 
 ### Markdown
 
