@@ -6,6 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Inquery [Whatsapp]( https://wi.me/917071773534?text=I' am intrested for purchase)
 
+[WhatsApp](https://wa.me/917017773534?text=I'm%20interested%20in%20your%20car%20for%20sale)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
