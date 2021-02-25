@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/fareedaalam/amanmarbles/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Inquery [Whatsapp]( https://wa.me/917071773534?text=I' am intrested for purchase)
 
 ### Markdown
 
@@ -26,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Inquery [Whatsapp]( https://wa.me/917071773534?text=I'm%20interested%20in%20your%20car%20for%20sale)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
